@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+## About Me
+Passionate leadership, coupled with expertise in managing people, projects, deliverables, and software development, forms the foundation of my professional experience. I am committed to fostering both personal and professional growth, in addition to promoting a collaborative environment and a positive work culture. The enthusiasm I have for technology is clearly reflected in my work, as I recognize its potential to empower businesses and improve people’s lives. My approach to leadership and devotion to progress demonstrates dedication to my team and the larger organization.
 
-<!--
-**bethsitruc/bethsitruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+•	Communication
+•	Workload Management
+•	Scrum
+•	Agile Methodologies
+•	Inclusive Leadership	•	Software Engineering
+•	Collaborative Leadership
+•	Problem Solving
+•	Project Management
+•	Business Continuity Planning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
