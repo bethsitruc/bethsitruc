@@ -1,7 +1,11 @@
 # Hi there 👋
 ## 👩‍🦰 About Me
 
-I'm a passionate leader with extensive experience in managing teams, projects, and software development initiatives. My commitment lies in fostering both personal and professional growth within a collaborative and positive work environment. I believe in the transformative power of technology to empower businesses and enrich lives. My leadership approach emphasizes continuous improvement, innovation, and dedication to both my team and the broader organization.
+I’m a passionate technical leader with a strong background in project management, engineering training, and software development. My expertise lies in managing teams, fostering collaboration, and creating impactful learning experiences that empower engineers to grow in their careers. With experience spanning technical training, agile methodologies, and business continuity planning, I thrive in roles that bridge technology and education.
+
+Currently, I lead engineering onboarding and training programs at GitHub, ensuring new engineers have the tools and support they need to succeed. Throughout my career, I’ve managed cross-functional teams, implemented CI/CD best practices, and facilitated technical content development. I believe in the power of mentorship, continuous learning, and technology’s ability to drive meaningful change.
+
+When I’m not working, you’ll find me baking new treats, keeping up with my four kids, or exploring Raleigh—my home since 2015!
 
 ## 🚀 Skills & Expertise
 ### Technical Leadership & Project Management
