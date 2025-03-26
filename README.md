@@ -13,3 +13,7 @@ Passionate leadership, coupled with expertise in managing people, projects, deli
 •	Project Management
 •	Business Continuity Planning
 
+## Connect
+- LinkedIn https://www.linkedin.com/in/bethany-curtis-2988895a/
+- GitHub @bethsitruc
+- Email beth.sitruc@icloud.com
