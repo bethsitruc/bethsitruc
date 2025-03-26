@@ -49,3 +49,6 @@ I'm a passionate leader with extensive experience in managing teams, projects, a
 - Mom of four—so life is always an adventure!
 - Passionate baker—I’m always experimenting with new treats like donuts, cupcakes, and cookies.
 - Proud Raleigh transplant since 2015, originally from Northern Virginia.
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bethsitruc&show_icons=true)
