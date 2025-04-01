@@ -55,4 +55,4 @@ When I’m not working, you’ll find me baking new treats, keeping up with my f
 - Proud Raleigh transplant since 2015, originally from Northern Virginia.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bethsitruc&show_icons=true)
+![GitHub Stats](https://github-readme-stats-bethany-curtis-projects.vercel.app/api?username=bethsitruc&show_icons=true&theme=shadow_blue)
