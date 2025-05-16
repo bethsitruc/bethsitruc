@@ -44,6 +44,13 @@ When I’m not working, you’ll find me baking new treats, keeping up with my f
 - Managed multiple engineering and content teams, ensuring alignment between training and development
 - Spearheaded agile transformation initiatives to improve project efficiency and adaptability
 
+## ✍️ How I Work  
+If you're curious about how I collaborate, lead, and support teams, check out:  
+- [Human User Guide (Individual Contributor)](https://github.com/bethsitruc/bethsitruc/blob/main/bethany-user-guide-ic.md)  
+- [Manager README](https://github.com/bethsitruc/bethsitruc/blob/main/bethany-manager-readme.md)
+
+These are living docs that reflect how I show up at work and what I value in a team.
+
 ## 📬 Connect
 - LinkedIn [Bethany Curtis](https://www.linkedin.com/in/bethany-curtis-2988895a/)
 - GitHub @bethsitruc
