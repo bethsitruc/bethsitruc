@@ -46,8 +46,8 @@ When I’m not working, you’ll find me baking new treats, keeping up with my f
 
 ## ✍️ How I Work  
 If you're curious about how I collaborate, lead, and support teams, check out:  
-- [Human User Guide (Individual Contributor)](https://github.com/bethsitruc/bethsitruc/blob/main/bethany-user-guide-ic.md)  
-- [Manager README](https://github.com/bethsitruc/bethsitruc/blob/main/bethany-manager-readme.md)
+- [Human User Guide (Individual Contributor)](https://github.com/bethsitruc/bethsitruc/blob/main/human-user-guide.md)  
+- [Manager README](https://github.com/bethsitruc/bethsitruc/blob/main/manager-readme.md)
 
 These are living docs that reflect how I show up at work and what I value in a team.
 
