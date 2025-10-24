@@ -1,6 +1,6 @@
 <h1>Hi, I'm Bethany 👋</h1>
 <p>
-  <img src="assets/Banner.jpg" alt="Bethany Curtis Banner" width="100%" />
+  <img src="assets/Banner.png" alt="Bethany Curtis Banner" width="100%" />
 </p>
 <p>
   I create apps and experiences that make technology approachable and help people grow their skills.  
